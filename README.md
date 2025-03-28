@@ -2,7 +2,7 @@ Hi, im Meiko.
 
 - 🔭 I’m currently working on: scratch game for CS50x
   
-- 🌱 I’m currently learning: Python & Html+CSS mainly, im taking the new FCC Ciriculum on the side, but my main focus is CS50x. I'm also working on my GED in preparation for college.
+- 🌱 I’m currently learning: Python & Html+CSS mainly, im taking the new FCC Ciriculum on the side, but my main focus is CS50x, which will heavily involve C. I'm also working on my GED in preparation for college.
   
 - 📫 Reach me on Discord: meikozen
   
